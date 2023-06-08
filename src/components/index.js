@@ -3,3 +3,10 @@ export {default as NavBar} from './NavBar';
 export {default as SearchResult} from './SearchResult';
 export {default as VideoDetail} from './VideoDetail';
 export {default as ChannelDetail} from './ChannelDetail';
+export {default as SearchBar} from './SearchBar';
+export {default as SideBar} from './SideBar';
+export {default as Videos} from './Videos';
+export {default as Loader} from './Loader';
+
+export {default as ChannelCard} from './ChannelCard';
+export {default as VideoCard} from './VideoCard';
